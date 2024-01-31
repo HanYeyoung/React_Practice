@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "title": "😊 About Me",
+        "content": "Hello, this is Adelia Han!\nI'm Computer Sciences and Mathematics student at University of Wisconsin-Madison.\n",
+        "comments": [
+            {
+                "id": 11,
+                "content": "Computer Sciences is the best subject to study 😆"
+            },
+            {
+                "id": 12,
+                "content": "Happy to know you!"
+            },
+            {
+                "id": 13,
+                "content": "I'm also a comp sci student!"
+            },
+            {
+                "id": 14,
+                "content": "Hello from Korea :)"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "📚 My Interests",
+        "content": "I’m interested in full-stack development, web development, mobile app development, and data analysis.\nI'm also interested in database management systems.",
+        "comments": [
+            {
+                "id": 21,
+                "content": "I have used: Java, C, Python, SQL, HTML/CSS, JavaScript, Typescript, JSON, LaTeX"
+            },
+            {
+                "id": 22,
+                "content": "I also used React, Flask, Git, GitHub, Linux, Google Cloud!"
+            },
+            {
+                "id": 23,
+                "content": "This blog is made using HTML/CSS, JavaScript; using React"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "🎓 My Education",
+        "content": "I'm a junior studying Computer Sciences and Mathematics at University of Wisconsin-Madison, located in Wisconsin, USA.\n",
+        "comments": [
+            {
+                "id": 31,
+                "content": "Which courses have you taken?"
+            },
+            {
+                "id": 32,
+                "content": "I took Programming III, Introduction to Artificial Intelligence, Introduction to Algorithms, Database Management Systems: Design and Implementation, Machine Organization and Programming, Elementary Matrix and Linear Algebra, Introduction to Discrete Mathematics, Introduction to Probability and Mathematical Statistics I and so on."
+            },
+            {
+                "id": 33,
+                "content": "I'm taking \"Introductions to Algorithms\" using Java and \"Database Management Systems: Design and Implementation\" using Python, SQL, and C++ for this semester.👍"
+            },
+            {
+                "id": 34,
+                "content": "Artificial Intelligence course was the most exciting course last semester! I used pytorch, numpy, pandas, matplotlib, and many other python libraries."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "💻 Some Projects I have made",
+        "content": "I have several projects I have made since 2022.\nSome brief information about these projects will be written in the comments!",
+        "comments": [
+            {
+                "id": 41,
+                "content": "Discrete Learners, during MadHacks Fall 2023 🧮"
+            },
+            {
+                "id": 42,
+                "content": "I designed a full-stack web application with a react front-end with styling from Tailwind CSS and a backend in Flask.\nI implemented a Dockerfile so that the site could be hosted on Google Cloud and created custom problem generators in Javascript for various sections in these classes and combined them with existing problems.\nI also implemented them in a database to use them as training data for a machine-learning model to generate new problems and explanations for existing problems."
+            },
+            {
+                "id": 43,
+                "content": "Movie Timer 🎥"
+            },
+            {
+                "id": 44,
+                "content": "I developed a specialized Java application designed to assist users in selecting movies that align with their available viewing time slots, utilizing sophisticated data structuring and algorithm implementation.\nI engaged in the creation of a Java backend system that parses movie data from CSV files, inserting and organizing content by duration using a Red-Black Tree data structure, and devised interfaces and classes to reveal crucial movie attributes, enabling the frontend to conduct efficient searches and display movies fitting specified time frames."
+            },
+            {
+                "id": 45,
+                "content": "Teeko AI Game 🎯"
+            },
+            {
+                "id": 46,
+                "content": "I designed an AI player for the strategic board game Teeko, utilizing advanced AI techniques and Python programming skills.\nI developed a minimax algorithm to simulate game scenarios and determine optimal moves for an AI player within a 5x5 board game, and analyzed a state representation in Python, leveraging class structures for efficient game state management and AI decision-making"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "📫 How to reach me",
+        "content": "Github: https://github.com/HanYeyoung\nLinkedin: https://www.linkedin.com/in/yeyoun-han-15370025b/.\nEmail: han293@wisc.edu\n",
+        "comments": [
+            {
+                "id": 51,
+                "content": "Please contact me!"
+            },
+            {
+                "id": 52,
+                "content": "More information: email me anytime!"
+            }
+        ]
+    }
+]
