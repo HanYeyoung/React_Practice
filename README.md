@@ -1,6 +1,6 @@
 # React Practice
 
-## Adelia's mini blog
+## Project: Adelia's mini blog
 📌 My first mini blog using React.
 
 ## Goal of the project:
